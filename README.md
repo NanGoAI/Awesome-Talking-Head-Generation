@@ -6,7 +6,9 @@ A curated list of papers focused on talking head/face animation, intend to keep 
 
 [Audio-Driven-Papers](#Audio-Driven-Papers)
 
+[Video-Driven-Papers](#Video-Driven-Papers)
 
+[Dataset](#Dataset)
 
 ## Audio-Driven-Papers
 

@@ -2,11 +2,15 @@
 
 A curated list of papers focused on talking head/face animation, intend to keep pace with the anticipated surge of research in the coming months. 
 
+## Table-of-Contents
+
+[Audio-Driven-Papers](#Audio-Driven-Papers)
+
 
 
 ## Audio-Driven-Papers
 
-| Time  | Title                                                        | Paper                                     | Project Page                                            | Code | Detailed Explanation                 |
+| Time  | Title                                                        | Paper                                     | Project Page                                            | Code | Blog                                 |
 | ----- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------- | ---- | ------------------------------------ |
 | 09/24 | DiffTED: **One-shot** Audio-driven TED Talk Video Generation with **Diffusion-based** Co-speech Gestures | [arXiv](https://arxiv.org/pdf/2409.07649) |                                                         |      | [知识星球](https://t.zsxq.com/X9cqD) |
 | 09/24 | EMOdiffhead: Continuously **Emotional Control** in Talking Head Generation via **Diffusion** | [arXiv](https://arxiv.org/abs/2409.07255) |                                                         |      | [知识星球](https://t.zsxq.com/P4inI) |
@@ -18,7 +22,19 @@ A curated list of papers focused on talking head/face animation, intend to keep 
 |       |                                                              |                                           |                                                         |      |                                      |
 |       |                                                              |                                           |                                                         |      |                                      |
 
+## Video-Driven-Papers
 
+| Time  | Title                                                        | Paper                                     | Project Page                               | Code                                            | Blog |
+| ----- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------ | ----------------------------------------------- | ---- |
+| 09/24 | LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control | [arXiv](https://arxiv.org/abs/2407.03168) | [Project](https://liveportrait.github.io/) | [Code](https://github.com/KwaiVGI/LivePortrait) |      |
+|       |                                                              |                                           |                                            |                                                 |      |
+|       |                                                              |                                           |                                            |                                                 |      |
+|       |                                                              |                                           |                                            |                                                 |      |
+|       |                                                              |                                           |                                            |                                                 |      |
+|       |                                                              |                                           |                                            |                                                 |      |
+|       |                                                              |                                           |                                            |                                                 |      |
+|       |                                                              |                                           |                                            |                                                 |      |
+|       |                                                              |                                           |                                            |                                                 |      |
 
 # Dataset
 

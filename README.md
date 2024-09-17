@@ -2,9 +2,9 @@
 
 A curated list of papers focused on talking head/face animation, intend to keep pace with the anticipated surge of research in the coming months. 
 
-# Papers
 
-## 2024
+
+## Audio-Driven-Papers
 
 | Time  | Title                                                        | Paper                                     | Project Page                                            | Code | Detailed Explanation                 |
 | ----- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------- | ---- | ------------------------------------ |
@@ -18,11 +18,13 @@ A curated list of papers focused on talking head/face animation, intend to keep 
 |       |                                                              |                                           |                                                         |      |                                      |
 |       |                                                              |                                           |                                                         |      |                                      |
 
+
+
 # Dataset
 
-| Dataset     | Description                                                  | Link                                          |
-| ----------- | ------------------------------------------------------------ | --------------------------------------------- |
-| CelebV-Text | a large-scale, high-quality, and diverse facial text-video dataset | [CelebV-Text](https://celebv-text.github.io/) |
-|             |                                                              |                                               |
-|             |                                                              |                                               |
+| Dataset     | Year | Description                                                  | Link                                          |
+| ----------- | ---- | ------------------------------------------------------------ | --------------------------------------------- |
+| CelebV-Text | 2023 | a large-scale, high-quality, and diverse facial text-video dataset | [CelebV-Text](https://celebv-text.github.io/) |
+|             |      |                                                              |                                               |
+|             |      |                                                              |                                               |
 

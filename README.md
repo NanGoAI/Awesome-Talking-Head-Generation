@@ -10,7 +10,7 @@ A curated list of papers focused on talking head/face animation, intend to keep 
 
 ## Audio-Driven-Papers
 
-| Time  | Title                                                        | Paper                                     | Project Page                                            | Code | Tech-Blog                            |
+| Time  | Title                                                        | Paper                                     | Project Page                                            | Code | Tech Blog                            |
 | ----- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------- | ---- | ------------------------------------ |
 | 09/24 | DiffTED: **One-shot** Audio-driven TED Talk Video Generation with **Diffusion-based** Co-speech Gestures | [arXiv](https://arxiv.org/pdf/2409.07649) |                                                         |      | [知识星球](https://t.zsxq.com/X9cqD) |
 | 09/24 | EMOdiffhead: Continuously **Emotional Control** in Talking Head Generation via **Diffusion** | [arXiv](https://arxiv.org/abs/2409.07255) |                                                         |      | [知识星球](https://t.zsxq.com/P4inI) |

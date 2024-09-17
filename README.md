@@ -40,9 +40,11 @@ A curated list of papers focused on talking head/face animation, intend to keep 
 
 # Dataset
 
-| Dataset     | Year | Description                                                  | Link                                          |
-| ----------- | ---- | ------------------------------------------------------------ | --------------------------------------------- |
-| CelebV-Text | 2023 | a large-scale, high-quality, and diverse facial text-video dataset | [CelebV-Text](https://celebv-text.github.io/) |
-|             |      |                                                              |                                               |
-|             |      |                                                              |                                               |
+| Dataset     | Year | Description                                                  | Link                                                        |
+| ----------- | ---- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| CelebV-Text | 2023 | A large-scale, **high-quality**, and **diverse** facial **text-video** dataset | [Download](https://celebv-text.github.io/)                  |
+| VFHQ        | 2022 | A **high-quality video face** dataset                        | [Download](https://liangbinxie.github.io/projects/vfhq/)    |
+| HDTF        | 2021 | A large in-the-wild **high-resolution audio-visual** dataset | [Download](https://github.com/MRzzm/HDTF)                   |
+| MEAD        | 2020 | **Multi-view Emotional Audio-visual** Dataset                | [Download](https://wywu.github.io/projects/MEAD/MEAD.html)  |
+| VoxCeleb    | 2017 | A large scale **audio-visual** dataset                       | [Download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) |
 

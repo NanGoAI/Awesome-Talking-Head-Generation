@@ -1,7 +1,3 @@
----
-typora-root-url: ../awesome-talking-head
----
-
 # Awesome-Talking-Head-Generation
 
 A curated list of papers focused on talking head animation, talking head animation, intend to keep pace with the anticipated surge of research in the coming months. 

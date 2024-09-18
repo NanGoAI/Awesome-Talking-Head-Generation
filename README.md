@@ -12,7 +12,7 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 如果你对该研究方向感兴趣，欢迎扫码加入社群。社群**每日跟进前沿研究**，并有大量**技术博客、报告、及学习资料**。
 
-<img src="./docs/QR-Code.png" style="zoom:50%;" />
+<img src="https://github.com/NanGoAI/Awesome-Talking-Head-Generation/blob/main/docs/QR-Code.png" style="zoom:50%;" />
 
 
 

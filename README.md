@@ -16,15 +16,15 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 ## Table-of-Contents
 
-[2D-Audio Driven](#2D-Audio-Driven)
+[2D-Audio-Driven](#2D-Audio-Driven)
 
-[2D-Video-Driven](#2D-Video Driven (face reenactment))
+[2D-Video-Driven](#2D-Video-Driven)
 
-[3D-Audio Driven](#3D-Audio Driven)
+[3D-Audio-Driven](#3D-Audio-Driven)
 
 [Dataset](#Dataset)
 
-## 2D-Audio Driven
+## 2D-Audio-Driven
 
 | arXiv Time | Title                                                        | Pub                                                          | Project Page                                                 | Code                                                    | Labels                   | Tech Blog                            |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------ | ------------------------------------ |
@@ -46,7 +46,7 @@ If you're interested in this research field, feel free to scan the QR code and j
 | 08/20      | A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild | [ACM MM 2020](https://arxiv.org/abs/2008.10010)              | [Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/) | [Code](https://github.com/Rudrabha/Wav2Lip)             |                          |                                      |
 | 04/20      | MakeItTalk: Speaker-Aware Talking-Head Animation             | [SIGGRAPH Asia 2020](https://arxiv.org/abs/2004.12992)       | [Project](https://people.umass.edu/~yangzhou/MakeItTalk/)    | [Code](https://github.com/yzhou359/MakeItTalk)          |                          |                                      |
 
-## 2D-Video Driven (face reenactment)
+## 2D-Video-Driven
 
 | arXiv Time | Title                                                        | Pub                                                          | Project Page                                                 | Code                                                         | Labels             | Blog |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ---- |
@@ -60,7 +60,7 @@ If you're interested in this research field, feel free to scan the QR code and j
 |            |                                                              |                                                              |                                                              |                                                              |                    |      |
 |            |                                                              |                                                              |                                                              |                                                              |                    |      |
 
-## 3D-Audio Driven
+## 3D-Audio-Driven
 
 | arXiv Time | Title                                                        | Pub                                                          | Project Page                                              | Code                                                 | Labels | Blog |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------------- | ------ | ---- |

@@ -18,7 +18,7 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 [2D-Audio Driven](#2D-Audio-Driven)
 
-[2D-Video-Driven](#Video-Driven-Papers)
+[2D-Video-Driven](#2D-Video Driven (face reenactment))
 
 [3D-Audio Driven](#3D-Audio Driven)
 

@@ -26,8 +26,6 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 # 2D-Audio-Driven
 
-## 2024
-
 - DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis; [arXiv 2024](https://arxiv.org/abs/2409.10281); 
 - DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures; [CVPRW 2024](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf);
 - EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion; [arXiv 2024](https://arxiv.org/abs/2409.07255); 

@@ -26,6 +26,7 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 # 2D-Audio-Driven
 
+- MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes; [NeurIPS 2024](https://arxiv.org/abs/2410.06734); [ProjectPage](https://mimictalk.github.io/); [Code](https://github.com/yerfor/MimicTalk);
 - DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis; [arXiv 2024](https://arxiv.org/abs/2409.10281); 
 - DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures; [CVPRW 2024](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf);
 - EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion; [arXiv 2024](https://arxiv.org/abs/2409.07255); 
@@ -43,13 +44,11 @@ If you're interested in this research field, feel free to scan the QR code and j
 - Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation; [WACV 2024](https://arxiv.org/abs/2301.03396); [Project](https://mstypulkowski.github.io/diffusedheads/); [Code](https://github.com/MStypulkowski/diffused-heads); 
 - GAIA: Zero-shot Talking Avatar Generation; [ICLR 2024](https://arxiv.org/abs/2311.15230);  [Project](https://gaiavatar.github.io/gaia/); 
 - SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis; [CVPR 2024](https://arxiv.org/abs/2311.17590); [Project](https://ziqiaopeng.github.io/synctalk/); [Code](https://github.com/ZiqiaoPeng/SyncTalk); 
-
 - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior; [arXiv 2023](https://arxiv.org/abs/2312.01841); [Project](https://humanaigc.github.io/vivid-talk/); [Code](https://github.com/HumanAIGC/VividTalk); 
 - MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions; [ICCV 2023](https://arxiv.org/abs/2307.10008); [Project](https://liuyunfei.net/projects/iccv23-moda/); 
 - DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation; [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_DiffTalk_Crafting_Diffusion_Models_for_Generalized_Audio-Driven_Portraits_Animation_CVPR_2023_paper.pdf); [Project](https://sstzal.github.io/DiffTalk/); [Code](https://github.com/sstzal/DiffTalk); 
 - SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation; [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.html); [Project](https://sadtalker.github.io/); [Code](https://github.com/OpenTalker/SadTalker); 
 - SPACE: Speech-driven Portrait Animation with Controllable Expression; [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Gururani_SPACE_Speech-driven_Portrait_Animation_with_Controllable_Expression_ICCV_2023_paper.pdf); [Project](https://deepimagination.cc/SPACE/); 
-
 - A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild; [ACM MM 2020](https://arxiv.org/abs/2008.10010); [Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/); [Code](https://github.com/Rudrabha/Wav2Lip); 
 - MakeItTalk: Speaker-Aware Talking-Head Animation; [SIGGRAPH Asia 2020](https://arxiv.org/abs/2004.12992); [Project](https://people.umass.edu/~yangzhou/MakeItTalk/); [Code](https://github.com/yzhou359/MakeItTalk); 
 
@@ -73,13 +72,12 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 # 3D-Audio-Driven
 
+- EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention; [arXiv 2024](https://arxiv.org/abs/2408.11518); 
 - KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding; [ECCV 2024](https://arxiv.org/abs/2409.01113); [Code](https://github.com/ffxzh/KMTalk); 
 - UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model; [ECCV 2024](https://arxiv.org/abs/2408.00762); [Project](https://x-niper.github.io/projects/UniTalker/); [Code](https://github.com/X-niper/UniTalker); 
-
+- EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation; [ICCV 2023](https://arxiv.org/abs/2303.11089); [ProjectPage](https://ziqiaopeng.github.io/emotalk/); [Code](https://github.com/psyai-net/EmoTalk_release); 
 - CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior; [CVPR 2023](https://arxiv.org/abs/2301.02379); [Project](https://doubiiu.github.io/projects/codetalker/); [Code](https://github.com/Doubiiu/CodeTalker); 
-
 - FaceFormer: Speech-Driven 3D Facial Animation with Transformers; [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_FaceFormer_Speech-Driven_3D_Facial_Animation_With_Transformers_CVPR_2022_paper.pdf); [Project](https://evelynfan.github.io/audio2face/); [Code](https://github.com/EvelynFan/FaceFormer); 
-
 - MeshTalk: 3D Face Animation From Speech Using Cross-Modality Disentanglement; [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf); [Code](https://github.com/facebookresearch/meshtalk);
 
 ## Dataset

@@ -26,6 +26,7 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 # 2D-Audio-Driven
 
+- Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis; [ICLR 2024](https://arxiv.org/abs/2401.08503); [ProjectPage](https://real3dportrait.github.io/); [Code](https://github.com/yerfor/Real3DPortrait);
 - MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes; [NeurIPS 2024](https://arxiv.org/abs/2410.06734); [ProjectPage](https://mimictalk.github.io/); [Code](https://github.com/yerfor/MimicTalk);
 - DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis; [arXiv 2024](https://arxiv.org/abs/2409.10281); 
 - DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures; [CVPRW 2024](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf);
@@ -71,6 +72,8 @@ If you're interested in this research field, feel free to scan the QR code and j
 - First Order Motion Model for Image Animation; [NeurIPS 2019](https://papers.nips.cc/paper_files/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html); [Code](https://github.com/AliaksandrSiarohin/first-order-model); 
 
 # 3D-Audio-Driven
+
+- DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models; [SIGGRAPH 2024](https://arxiv.org/abs/2310.00434); [ProjectPage](https://diffposetalk.github.io/); [Code](https://github.com/DiffPoseTalk/DiffPoseTalk);
 
 - EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention; [arXiv 2024](https://arxiv.org/abs/2408.11518); 
 - KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding; [ECCV 2024](https://arxiv.org/abs/2409.01113); [Code](https://github.com/ffxzh/KMTalk); 

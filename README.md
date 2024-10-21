@@ -26,6 +26,15 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 # 2D-Audio-Driven
 
+- DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis; [arXiv 2024](https://arxiv.org/abs/2409.10281); 
+- Learning Frame-Wise Emotion Intensity for Audio-Driven Talking-Head Generation; [arXiv 2024](https://arxiv.org/abs/2409.19501); 
+- DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation;  [arXiv2024](https://arxiv.org/abs/2410.13726);    [ProjectPage](https://hanbo-cheng.github.io/DAWN/); 
+- EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention; [arXiv 2024](https://arxiv.org/abs/2408.11518); 
+- G3FA: Geometry-guided GAN for Face Animation; [BMVC 2024](https://arxiv.org/abs/2408.13049); 
+- TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans; [ECCVW 2024](https://arxiv.org/abs/2409.16666); [ProjectPage](https://aggelinacha.github.io/TalkinNeRF/); 
+- Character-aware audio-visual subtitling in context; [ACCV 2024](https://arxiv.org/abs/2410.11068); [ProjectPage](https://www.robots.ox.ac.uk/~vgg/research/llr-context/); 
+- MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting; [arXiv 2024](https://arxiv.org/abs/2410.10122); [Code](https://github.com/TMElyralab/MuseTalk);
+- TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model; [SIGGRAPH Asia 2024](https://arxiv.org/abs/2410.10696); [ProjectPage](https://guanjz20.github.io/projects/TALK-Act/); 
 - Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis; [ICLR 2024](https://arxiv.org/abs/2401.08503); [ProjectPage](https://real3dportrait.github.io/); [Code](https://github.com/yerfor/Real3DPortrait);
 - MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes; [NeurIPS 2024](https://arxiv.org/abs/2410.06734); [ProjectPage](https://mimictalk.github.io/); [Code](https://github.com/yerfor/MimicTalk);
 - DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis; [arXiv 2024](https://arxiv.org/abs/2409.10281); 
@@ -73,8 +82,10 @@ If you're interested in this research field, feel free to scan the QR code and j
 
 # 3D-Audio-Driven
 
+- MMHead: Towards Fine-grained Multi-modal 3D Facial Animation; [ACM MM 2024](https://arxiv.org/abs/2410.07757); [ProjectPage](https://wsj-sjtu.github.io/MMHead/); [Code](https://github.com/wsj-sjtu/MMHead); [知识星球](https://t.zsxq.com/UWKEm);
+- DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation; [arXiv 2024](https://arxiv.org/abs/2408.06010); 
+- Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation; [arXiv 2024](https://arxiv.org/abs/2408.09357); 
 - DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models; [SIGGRAPH 2024](https://arxiv.org/abs/2310.00434); [ProjectPage](https://diffposetalk.github.io/); [Code](https://github.com/DiffPoseTalk/DiffPoseTalk);
-
 - EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention; [arXiv 2024](https://arxiv.org/abs/2408.11518); 
 - KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding; [ECCV 2024](https://arxiv.org/abs/2409.01113); [Code](https://github.com/ffxzh/KMTalk); 
 - UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model; [ECCV 2024](https://arxiv.org/abs/2408.00762); [Project](https://x-niper.github.io/projects/UniTalker/); [Code](https://github.com/X-niper/UniTalker); 
